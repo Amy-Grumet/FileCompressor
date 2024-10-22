@@ -18,4 +18,7 @@ A file compression tool that utilizes Huffman coding. Huffman coding is a lossle
        gcc -o huffman main.c fileCompressor.c
     4. Use the following command to compress the file, where the name of your input file is input:
        ./huffman <input.txt>
+    5. Two sample input files have been provided for testing purposes: 
+        ./huffman tempest.txt
+        ./huffman hamlet.txt
 
