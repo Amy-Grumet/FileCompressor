@@ -1,1 +1,1 @@
-# FileCompressor
+# File Compression Utility
